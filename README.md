@@ -1,2 +1,2 @@
-# Client-Package
-Official client package containing required configuration files for the GWarfare Garry's Mod server.
+# Client-Config
+The client configuration files required for the GWarfare Garry's Mod server.
