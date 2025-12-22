@@ -223,9 +223,5 @@
 	"wz_armorsys_hud"		"1"
 	"wz_armorsys_hud_x"		"130"
 	"wz_armorsys_hud_y"		"425"
-	"tarkovselector_scale"		"1.00"
-	"tarkovselector_autohide"		"1"
-	"tarkovselector_enabled"		"1"
-	"tarkovselector_numbers"		"1"
 	"cl_showhints"		"0"
 }
